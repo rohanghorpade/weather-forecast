@@ -1,0 +1,3 @@
+weather_api:
+  uri: https://api.weatherapi.com/v1/forecast.json
+  api_key: d00f09f7bec04c3d87712744221306

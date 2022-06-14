@@ -1,0 +1,4 @@
+aiohttp==3.7.3
+Flask
+confuse
+requests
